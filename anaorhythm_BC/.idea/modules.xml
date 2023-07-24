@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Silk-Sonic/.idea/Silk-Sonic.iml" filepath="$PROJECT_DIR$/../Silk-Sonic/.idea/Silk-Sonic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/anaorhythm.iml" filepath="$PROJECT_DIR$/.idea/anaorhythm.iml" />
+    </modules>
+  </component>
+</project>
