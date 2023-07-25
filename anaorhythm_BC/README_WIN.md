@@ -22,7 +22,7 @@ To download and extract naoqi, follow this [guide](http://doc.aldebaran.com/2-5/
 
 1- Clone the repository
 
-	git clone https://github.com/drchapman-17/anaorhythm
+	git clone https://github.com/BenedettaRogato/NAO.git
 
 2- Create a Python Virtual Environment 
 
