@@ -25,7 +25,6 @@ def do_move(curr_move, ip, port, tot_time, past_moves):
     print("Move: {}".format(curr_move.name), flush=True)
     past_moves.append(curr_move)
     tot_time += curr_move.t
-    print("tempo realmente trascorso: ", tot_time)
     return tot_time,past_moves
 
 
