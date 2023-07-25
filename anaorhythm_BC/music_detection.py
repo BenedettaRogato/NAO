@@ -63,9 +63,11 @@ def analyze_music(song):
     #thread.start()
     #######################
 
+    duration = len(audData) / float(rate)
+
     # INTENSITY ANALYSIS
     list_interval_intensity = []
-    for i in range(180):
+    for i in range(int(duration)):
         list_interval_intensity.append((np.sum(abs(audData[i*rate:((i+1)*rate)+1]).astype(float)))/rate)
     max_interval = max(list_interval_intensity)
     list_interval_intensity_percent = []
