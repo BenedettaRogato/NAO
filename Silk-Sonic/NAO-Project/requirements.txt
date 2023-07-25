@@ -1,0 +1,5 @@
+pydub
+multiprocess
+scipy
+matplotlib
+playsound
