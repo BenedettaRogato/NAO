@@ -99,7 +99,7 @@ def main():
     numb = numbers.split()
 
     for str in numb:
-        mandatory_modified.remove(mandatory_modified[int(str)])
+        mandatory_modified.remove(mandatory_modified[int(str)-1])
 
     print()
     i = 0
