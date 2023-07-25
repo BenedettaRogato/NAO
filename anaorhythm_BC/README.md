@@ -1,7 +1,7 @@
 # ANaoRhythm
 **Nao Planning Challange - 2021**
 
-This Progect focuses on planning a Dance Coreography given constraints on:
+This Project focuses on planning a Dance Coreography given constraints on:
 - the total time of the coreography 
 - mandatory moves that need to be executed.
 
